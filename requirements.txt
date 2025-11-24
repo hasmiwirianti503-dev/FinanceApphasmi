@@ -1,7 +1,7 @@
 streamlit
 pandas
-duckdb
-plotly>=5.11.0
+plotly
+numpy
 python-dotenv
 groq
 openpyxl
